@@ -12,7 +12,7 @@ A sophisticated retail analytics chatbot designed to follow analytics, provide s
 
 ## Tech Stack
 
-- **Backend**: Flask, SQLAlchemy, spaCy, Pandas, Statsmodels
+- **Backend**: Python, Flask, SQLAlchemy, spaCy, Pandas, Statsmodels
 - **Frontend**: React, JavaScript, HTML, CSS
 - **Database**: SQLite
 
