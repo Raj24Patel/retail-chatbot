@@ -22,7 +22,7 @@ A sophisticated retail analytics chatbot designed to follow analytics, provide s
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/yourusername/retail-analytics-chatbot.git
+   git clone https://github.com/Raj24Patel/retail-analytics-chatbot.git
    cd retail-analytics-chatbot/backend
 
 2. **Create and activate a virtual environment:
